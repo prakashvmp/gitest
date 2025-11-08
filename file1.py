@@ -1,1 +1,4 @@
-print("hello all welcome to python world vdevv2")
+def fun(x,y):
+     return x+y
+print(fun(2,3))
+print("completed")
